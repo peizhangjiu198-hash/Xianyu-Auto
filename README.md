@@ -11,7 +11,7 @@
 
 **扫码加入 QQ 群，进群即可领取打包好的应用程序！**
 
-![QQ群二维码](Picture/QQ%20group%20QR%20code.jpg)
+<img src="Picture/QQ%20group%20QR%20code.jpg" width="300">
 
 **进群福利：项目永久免费** 
 - 📦 免费下载使用打包好的应用程序
