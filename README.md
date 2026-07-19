@@ -4,11 +4,7 @@
 ---
 # 🛒 应用分享百度网盘链接
 
-**分享链接：** https://pan.baidu.com/s/1Oa2-j-tPC37kaZeSedDKWA
-
-**提取码：** 8888
-
-> 💡 提示：复制链接后在浏览器中打开，输入提取码即可下载
+### 分享链接：https://pan.baidu.com/s/1Oa2-j-tPC37kaZeSedDKWA?pwd=8888
 ---
 
 ## 🎉 免费领取
